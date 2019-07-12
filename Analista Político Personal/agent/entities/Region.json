@@ -1,0 +1,9 @@
+{
+  "id": "39b73c05-76b8-4a43-953f-e7b88764813c",
+  "name": "Region",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

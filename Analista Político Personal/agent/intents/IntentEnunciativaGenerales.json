@@ -1,0 +1,67 @@
+{
+  "id": "262f0559-3cd8-442f-bc74-aad7cac16330",
+  "name": "IntentEnunciativaGenerales",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "IntentEnunciativaGenerales-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [
+        {
+          "id": "260f3c7e-6089-4361-992c-80f19d3ca02a",
+          "required": false,
+          "dataType": "@Partido",
+          "name": "Partido",
+          "value": "$Partido",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "isList": false
+        },
+        {
+          "id": "52c23919-0952-4a19-86b2-9eb9bfef6765",
+          "required": false,
+          "dataType": "@Tema",
+          "name": "Tema",
+          "value": "$Tema",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "isList": false
+        },
+        {
+          "id": "d01ca7dc-e13f-4ed0-a906-4e2742303d55",
+          "required": false,
+          "dataType": "@Elecciones",
+          "name": "Elecciones",
+          "value": "$Elecciones",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

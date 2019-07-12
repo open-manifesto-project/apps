@@ -1,0 +1,26 @@
+[
+  {
+    "id": "63294a67-1ceb-418c-963b-1c4530e8af89",
+    "data": [
+      {
+        "text": "Ayuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18a92620-1427-4103-97b2-35dac18cf990",
+    "data": [
+      {
+        "text": "¿Cómo funciona?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,807 @@
+[
+  {
+    "id": "ee69c5a0-8d2b-4207-8990-035528028659",
+    "data": [
+      {
+        "text": "qué llevaba el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " relacionado con ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " las ",
+        "userDefined": false
+      },
+      {
+        "text": "autonómicas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Valencia",
+        "alias": "Region",
+        "meta": "@Region",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "027db08b-64a3-45ad-96fb-fbf74d76d23e",
+    "data": [
+      {
+        "text": "¿Qué propuestas tiene el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      },
+      {
+        "text": " para las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones autonómicas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Cataluña",
+        "alias": "Region",
+        "meta": "@Region",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0366edd4-0b38-4704-a310-14382aad6f45",
+    "data": [
+      {
+        "text": "Qué propuestas tenía el ",
+        "userDefined": false
+      },
+      {
+        "text": "PP",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones autonómicas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Castilla La Mancha",
+        "alias": "Region",
+        "meta": "@Region",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "60faaa63-e15e-4afa-aca0-eedf73037cd2",
+    "data": [
+      {
+        "text": "Qué propuestas llevaba ",
+        "userDefined": false
+      },
+      {
+        "text": "VOX",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones autonómicas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Madrid",
+        "alias": "Region",
+        "meta": "@Region",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ac12248-0fd8-49f8-97a2-6af938665edf",
+    "data": [
+      {
+        "text": "Qué proponía ",
+        "userDefined": false
+      },
+      {
+        "text": "Ciudadanos",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "autonómicas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Cataluña",
+        "alias": "Region",
+        "meta": "@Region",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51f7ad90-1571-4550-8cb7-787ecde901fa",
+    "data": [
+      {
+        "text": "Qué propuestas tenía ",
+        "userDefined": false
+      },
+      {
+        "text": "Unidas Podemos",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "pensiones",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones autonómicas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Madrid",
+        "alias": "Region",
+        "meta": "@Region",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f33d9fbe-bbd9-476d-a639-f347ce5ef09e",
+    "data": [
+      {
+        "text": "Qué propuestas tenía el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "impuestos",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "autonómicas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Valencia",
+        "alias": "Region",
+        "meta": "@Region",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89eab9ae-757c-428d-bcb4-08b38be0bde7",
+    "data": [
+      {
+        "text": "Qué llevaba ",
+        "userDefined": false
+      },
+      {
+        "text": "Compromís",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " relacionado con ",
+        "userDefined": false
+      },
+      {
+        "text": "empleo",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      },
+      {
+        "text": " para las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones autonómicas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      },
+      {
+        "text": " de la ",
+        "userDefined": false
+      },
+      {
+        "text": "Comunidad Valenciana",
+        "alias": "Region",
+        "meta": "@Region",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c2ca1698-3162-4625-99ce-7059d769661e",
+    "data": [
+      {
+        "text": "¿Qué propone el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      },
+      {
+        "text": " para las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones autonómicas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Madrid",
+        "alias": "Region",
+        "meta": "@Region",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d562d1ca-e60f-4cbe-a514-cb61cae8f993",
+    "data": [
+      {
+        "text": "¿Qué propuestas tenía el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones autonómicas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Andalucía",
+        "alias": "Region",
+        "meta": "@Region",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67283a07-ebb0-4ecc-b3db-f6ba556bd8f9",
+    "data": [
+      {
+        "text": "¿Qué propuestas llevaba el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones autonómicas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Galicia",
+        "alias": "Region",
+        "meta": "@Region",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "511590f0-b703-4d9f-9f5d-9f790c6d35ed",
+    "data": [
+      {
+        "text": "¿Qué llevaba el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "autonómicas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      },
+      {
+        "text": " del ",
+        "userDefined": false
+      },
+      {
+        "text": "País Vasco",
+        "alias": "Region",
+        "meta": "@Region",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2bef4333-0ff4-4acb-a77a-116de803fc0f",
+    "data": [
+      {
+        "text": "¿Qué propuestas tenía el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "pensiones",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones autonómicas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Extremadura",
+        "alias": "Region",
+        "meta": "@Region",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a2986d2-922a-448f-8ffb-acb4e833cdf8",
+    "data": [
+      {
+        "text": "¿Qué propuestas tenía el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "impuestos",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "autonómicas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Murcia",
+        "alias": "Region",
+        "meta": "@Region",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7293dc28-5f7e-4207-8e6b-b8317718a528",
+    "data": [
+      {
+        "text": "Qué propuestas tiene el ",
+        "userDefined": false
+      },
+      {
+        "text": "PP",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      },
+      {
+        "text": " para las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones autonómicas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Cantabria",
+        "alias": "Region",
+        "meta": "@Region",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "83c149ff-d8bb-492b-bdc2-2f84ec15a03c",
+    "data": [
+      {
+        "text": "Qué propone el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      },
+      {
+        "text": " para las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones autonómicas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Baleares",
+        "alias": "Region",
+        "meta": "@Region",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

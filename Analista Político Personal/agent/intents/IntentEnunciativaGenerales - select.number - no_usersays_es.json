@@ -1,0 +1,110 @@
+[
+  {
+    "id": "96de2ab7-0a78-4230-ac16-4c3f5b3b3091",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9578ebe4-34e6-4b11-b111-e77a333322f2",
+    "data": [
+      {
+        "text": "no lo quiero",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e59c335f-21b6-4e3a-9f2f-d537e5a482c0",
+    "data": [
+      {
+        "text": "no estoy de acuerdo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "309dcdb2-1a28-4913-a01d-e69310dc06e9",
+    "data": [
+      {
+        "text": "gracias pero no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd0c9dde-aaaf-47c0-909a-e796e2e2c13d",
+    "data": [
+      {
+        "text": "no mucho",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85ab8519-a879-4c86-aab8-c52e7f2f06de",
+    "data": [
+      {
+        "text": "en absoluto",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "162c459f-31fd-433e-9b7c-9b032c3a8c58",
+    "data": [
+      {
+        "text": "no hacerlo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "02a66ef9-1318-4e98-973e-b63591f385fb",
+    "data": [
+      {
+        "text": "no lo creo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8fe6b56c-2b55-455c-b788-870784056be3",
+    "data": [
+      {
+        "text": "no me interesa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

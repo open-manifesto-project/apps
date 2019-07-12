@@ -1,0 +1,43 @@
+{
+  "id": "bdab0663-8e78-4267-8e7a-23a225a16c01",
+  "name": "IntentComparativa",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cded79be-08d5-4b49-a79f-5d2249b13126",
+          "required": false,
+          "dataType": "@Tema",
+          "name": "Tema",
+          "value": "$Tema",
+          "isList": false
+        },
+        {
+          "id": "3d6d1940-2a23-4253-8a82-314c1c9f172b",
+          "dataType": "@Comparacion",
+          "name": "Comparacion",
+          "value": "$Comparacion",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

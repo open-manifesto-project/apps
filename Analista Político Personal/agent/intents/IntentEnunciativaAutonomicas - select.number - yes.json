@@ -1,0 +1,32 @@
+{
+  "id": "04db9dcb-a0af-4329-b748-986c671a3335",
+  "parentId": "c9e11469-a5d2-4715-b445-333af56e9164",
+  "rootParentId": "ee9b1413-9e8c-4f2c-b1ee-d5956561b891",
+  "name": "IntentEnunciativaAutonomicas - select.number - yes",
+  "auto": true,
+  "contexts": [
+    "IntentEnunciativaAutonomicas-selectnumber-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IntentEnunciativaAutonomicas.IntentEnunciativaAutonomicas-selectnumber.IntentEnunciativaAutonomicas-selectnumber-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

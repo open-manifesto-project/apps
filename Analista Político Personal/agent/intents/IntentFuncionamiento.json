@@ -1,0 +1,27 @@
+{
+  "id": "26566151-03af-414f-a10f-70b01e7f4e69",
+  "name": "IntentFuncionamiento",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Para conocer las propuestas de los partidos necesito que me indiques el partido, el tema de las propuestas y las elecciones que te interesan. Por ejemplo: ¿Qué llevaba el PSOE en relación a empleo para las elecciones europeas? Si te interesan las elecciones locales o autonómicas también necesito que me indiques la región. Para terminar la conversación con el asistente pronuncia: salir."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "e87a852f-0767-42b1-9997-c75aa443360b",
+    "data": [
+      {
+        "text": "salir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d7dfffc3-8e01-49b0-bd79-5cfe0ef542c0",
+    "data": [
+      {
+        "text": "salir de mi aplicación",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

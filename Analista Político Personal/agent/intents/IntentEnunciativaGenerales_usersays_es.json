@@ -1,0 +1,1359 @@
+[
+  {
+    "id": "69fd6f38-7866-49a7-adb4-35a402d6c351",
+    "data": [
+      {
+        "text": "qué llevaba el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      },
+      {
+        "text": " para las ",
+        "userDefined": false
+      },
+      {
+        "text": "europeas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ae75f490-1700-4547-8c92-f24b30ede6b2",
+    "data": [
+      {
+        "text": "qué llevaba ",
+        "userDefined": false
+      },
+      {
+        "text": "Unidas Podemos",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " relacionado con ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      },
+      {
+        "text": " para las ",
+        "userDefined": false
+      },
+      {
+        "text": "europeas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7db69ee0-b714-4831-ac74-7eef88975190",
+    "data": [
+      {
+        "text": "qué propuestas llevaba ",
+        "userDefined": false
+      },
+      {
+        "text": "Unidas Podemos",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "igualdad",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      },
+      {
+        "text": " para las ",
+        "userDefined": false
+      },
+      {
+        "text": "europeas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68a68832-823a-4468-9faa-08699a72b707",
+    "data": [
+      {
+        "text": "qué propuestas electorales llevaba el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "005ac1c4-690d-4581-873c-bbde13847a68",
+    "data": [
+      {
+        "text": "qué propuestas electorales llevaba el ",
+        "userDefined": false
+      },
+      {
+        "text": "Partido Popular",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de36b344-6f15-426a-beae-74a765691ec0",
+    "data": [
+      {
+        "text": "qué llevaba ",
+        "userDefined": false
+      },
+      {
+        "text": "junts per Catalunya",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": true
+      },
+      {
+        "text": " en ",
+        "userDefined": false
+      },
+      {
+        "text": "empleo",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " para la ",
+        "userDefined": false
+      },
+      {
+        "text": "generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18079104-a7a3-4826-bd03-61941f11bbb9",
+    "data": [
+      {
+        "text": "qué propuestas tuvo ",
+        "userDefined": false
+      },
+      {
+        "text": "Unidas podemos",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en las pasadas ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones europeas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": true
+      },
+      {
+        "text": " acerca de ",
+        "userDefined": false
+      },
+      {
+        "text": "empleo",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8e74ab2a-88c1-4def-a2a7-0923a6c0b4e5",
+    "data": [
+      {
+        "text": "¿Qué llevaba el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en relación a ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " para las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones europeas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      },
+      {
+        "text": "??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7781121e-3d61-47ae-a182-e13211b41264",
+    "data": [
+      {
+        "text": "¿Qué llevaba el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en relación a ",
+        "userDefined": false
+      },
+      {
+        "text": "empleo",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " para las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones europeas",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      },
+      {
+        "text": "??",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc8ea5ec-bbbd-4093-a968-a4d26282da1c",
+    "data": [
+      {
+        "text": "¿Qué llevaba el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en relación a ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " para las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "626c42a7-5cf6-4df6-aab1-0eccdbbe94d8",
+    "data": [
+      {
+        "text": "Qué proponía ",
+        "userDefined": false
+      },
+      {
+        "text": "Ciudadanos",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "igualdad",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "875d1ee7-4bbf-4a27-bdcc-07cfc841b339",
+    "data": [
+      {
+        "text": "¿Qué propone el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 7,
+    "updated": 0
+  },
+  {
+    "id": "7c1e41d2-8821-45f1-88e4-ea4a32e734d8",
+    "data": [
+      {
+        "text": "Qué propone el ",
+        "userDefined": false
+      },
+      {
+        "text": "PP",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " para las ",
+        "userDefined": false
+      },
+      {
+        "text": "generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1f67e2d6-4296-426e-a473-941304c805e3",
+    "data": [
+      {
+        "text": "Qué propuestas llevaba ",
+        "userDefined": false
+      },
+      {
+        "text": "Ciudadanos",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " relacionadas con ",
+        "userDefined": false
+      },
+      {
+        "text": "financiación autonómica",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " las ",
+        "userDefined": false
+      },
+      {
+        "text": "generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8878bacb-2f4e-4b15-8dbb-0f5862a452c3",
+    "data": [
+      {
+        "text": "Qué propone ",
+        "userDefined": false
+      },
+      {
+        "text": "Ciudadanos",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e30bcef8-00a0-4178-9bfc-e8a7fe6b2066",
+    "data": [
+      {
+        "text": "Qué propuestas llevaba el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " relacionadas con ",
+        "userDefined": false
+      },
+      {
+        "text": "política territorial",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " las ",
+        "userDefined": false
+      },
+      {
+        "text": "generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04686280-87db-4ecf-a687-9d609ee5346c",
+    "data": [
+      {
+        "text": "¿Qué propuestas tiene el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "306cc849-8095-464e-a2ac-4eb7fadf3fc8",
+    "data": [
+      {
+        "text": "¿Qué propuestas tenía el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "impuestos",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f7d15747-1833-476a-bdb2-ff52059a48e0",
+    "data": [
+      {
+        "text": "Qué propuestas llevaba ",
+        "userDefined": false
+      },
+      {
+        "text": "VOX",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4362825-8724-4a6f-af94-dfd1162925e4",
+    "data": [
+      {
+        "text": "Qué propone ",
+        "userDefined": false
+      },
+      {
+        "text": "Unidas Podemos",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " para las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "352ffea9-e30d-430c-8e42-90faba601871",
+    "data": [
+      {
+        "text": "Qué propuestas tenía el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "impuestos",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aff9e7d3-02af-45bf-88a9-a0783f184a35",
+    "data": [
+      {
+        "text": "¿Qué propuestas llevaba el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3ceeb312-00e2-4a0b-8261-fc1da9d639a2",
+    "data": [
+      {
+        "text": "¿Qué propuestas tenía el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "pensiones",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5aea9292-86c3-4072-81f6-0ef32a377d5e",
+    "data": [
+      {
+        "text": "Qué propuestas tiene el ",
+        "userDefined": false
+      },
+      {
+        "text": "PP",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "09ad89c0-72ff-4140-bee0-b3112ec6cb7a",
+    "data": [
+      {
+        "text": "¿Qué proponía el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ef1c095-3c67-458d-8c2a-6c7984b0cd1e",
+    "data": [
+      {
+        "text": "Qué propuestas tenía ",
+        "userDefined": false
+      },
+      {
+        "text": "Unidas Podemos",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "pensiones",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b07dde8e-2d48-4cb5-8394-3d9021b41ff0",
+    "data": [
+      {
+        "text": "Qué propone ",
+        "userDefined": false
+      },
+      {
+        "text": "VOX",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "f7cd1584-f4ca-4fae-a66e-4111f1ab2397",
+    "data": [
+      {
+        "text": "Qué propuestas tenía el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a75969bb-98c9-4c20-8387-807e37ef4e8b",
+    "data": [
+      {
+        "text": "Qué propuestas llevaba ",
+        "userDefined": false
+      },
+      {
+        "text": "Unidas Podemos",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " relacionadas con ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " las ",
+        "userDefined": false
+      },
+      {
+        "text": "generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "385db24d-2305-4d7a-8d3a-aec26f5943a9",
+    "data": [
+      {
+        "text": "Qué propone el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "para",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "334b4ca6-36ec-4681-9dd5-646cead9c42e",
+    "data": [
+      {
+        "text": "¿Qué propuestas tenía el ",
+        "userDefined": false
+      },
+      {
+        "text": "PSOE",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "54de9ee4-27ce-496e-b85d-5cc61435e740",
+    "data": [
+      {
+        "text": "Qué proponía ",
+        "userDefined": false
+      },
+      {
+        "text": "Ciudadanos",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ad4ea04-e4be-4208-8564-ed6141753699",
+    "data": [
+      {
+        "text": "Qué propuestas tenía el ",
+        "userDefined": false
+      },
+      {
+        "text": "PP",
+        "alias": "Partido",
+        "meta": "@Partido",
+        "userDefined": false
+      },
+      {
+        "text": " en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "vivienda",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": " en las ",
+        "userDefined": false
+      },
+      {
+        "text": "elecciones generales",
+        "alias": "Elecciones",
+        "meta": "@Elecciones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

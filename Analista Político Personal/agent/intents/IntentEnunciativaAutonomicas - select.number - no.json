@@ -1,0 +1,32 @@
+{
+  "id": "ac2ef92b-2924-4743-b39e-d9c6c387e402",
+  "parentId": "c9e11469-a5d2-4715-b445-333af56e9164",
+  "rootParentId": "ee9b1413-9e8c-4f2c-b1ee-d5956561b891",
+  "name": "IntentEnunciativaAutonomicas - select.number - no",
+  "auto": true,
+  "contexts": [
+    "IntentEnunciativaAutonomicas-selectnumber-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IntentEnunciativaAutonomicas.IntentEnunciativaAutonomicas-selectnumber.IntentEnunciativaAutonomicas-selectnumber-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Vale, pero recuerda que puedes preguntarme por las propuestas de otros partidos, relacionadas con otro tema o de otras elecciones."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

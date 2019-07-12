@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5f53af8c-7808-4d70-8a03-dfc77da699fe",
+    "data": [
+      {
+        "text": "propuestas del Partido Socialista en desempleo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "acaa6fe6-d795-42ca-8ee3-35d92d256fb6",
+    "data": [
+      {
+        "text": "propuestas de PP",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

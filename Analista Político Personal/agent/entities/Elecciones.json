@@ -1,0 +1,9 @@
+{
+  "id": "a1ae1c97-d734-4f61-bb51-7a1a024d7291",
+  "name": "Elecciones",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

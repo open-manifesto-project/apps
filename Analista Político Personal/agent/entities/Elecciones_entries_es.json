@@ -1,0 +1,31 @@
+[
+  {
+    "value": "autonómicas",
+    "synonyms": [
+      "autonómicas",
+      "elecciones autonómicas"
+    ]
+  },
+  {
+    "value": "europeas",
+    "synonyms": [
+      "elecciones europeas",
+      "europeas"
+    ]
+  },
+  {
+    "value": "generales",
+    "synonyms": [
+      "elecciones generales",
+      "elecciones nacionales",
+      "generales"
+    ]
+  },
+  {
+    "value": "municipales",
+    "synonyms": [
+      "elecciones municipales",
+      "municipales"
+    ]
+  }
+]

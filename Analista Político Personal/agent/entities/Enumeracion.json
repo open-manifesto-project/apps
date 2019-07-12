@@ -1,0 +1,9 @@
+{
+  "id": "a9e66178-b69d-4bab-bf42-227d445cece6",
+  "name": "Enumeracion",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

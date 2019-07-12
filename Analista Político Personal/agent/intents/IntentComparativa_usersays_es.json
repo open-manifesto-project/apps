@@ -1,0 +1,61 @@
+[
+  {
+    "id": "a2bc7043-9873-4f70-87b6-e1d87faa8e6e",
+    "data": [
+      {
+        "text": "qué partido ",
+        "userDefined": false
+      },
+      {
+        "text": "tiene más",
+        "alias": "Comparacion",
+        "meta": "@Comparacion",
+        "userDefined": false
+      },
+      {
+        "text": " propuestas en materia de ",
+        "userDefined": false
+      },
+      {
+        "text": "corrupción",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "d717e38d-3935-4fd7-bbe1-04b949a88d5e",
+    "data": [
+      {
+        "text": "¿Qué partido ",
+        "userDefined": false
+      },
+      {
+        "text": "tiene más",
+        "alias": "Comparacion",
+        "meta": "@Comparacion",
+        "userDefined": true
+      },
+      {
+        "text": " propuestas relacionadas con ",
+        "userDefined": false
+      },
+      {
+        "text": "desempleo",
+        "alias": "Tema",
+        "meta": "@Tema",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

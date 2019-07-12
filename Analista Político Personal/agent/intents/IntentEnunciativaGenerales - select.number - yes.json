@@ -1,0 +1,33 @@
+{
+  "id": "1232f9bf-96ae-4486-969d-312e3260c193",
+  "parentId": "1069a457-3342-49f2-ba8c-4a2cadf9ab0a",
+  "rootParentId": "262f0559-3cd8-442f-bc74-aad7cac16330",
+  "name": "IntentEnunciativaGenerales - select.number - yes",
+  "auto": true,
+  "contexts": [
+    "IntentEnunciativaGenerales-selectnumber-followup",
+    "IntentEnunciativaGenerales-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IntentEnunciativaGenerales.IntentEnunciativaGenerales-selectnumber.IntentEnunciativaGenerales-selectnumber-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

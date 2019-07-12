@@ -1,0 +1,78 @@
+{
+  "id": "ee9b1413-9e8c-4f2c-b1ee-d5956561b891",
+  "name": "IntentEnunciativaAutonomicas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "IntentEnunciativaAutonomicas-followup",
+          "parameters": {},
+          "lifespan": 4
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9138b1cd-0924-46be-901c-1f8971ddcbd2",
+          "required": false,
+          "dataType": "@Partido",
+          "name": "Partido",
+          "value": "$Partido",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "isList": false
+        },
+        {
+          "id": "f1e600b3-918d-42d1-b276-00faef69cf36",
+          "required": false,
+          "dataType": "@Tema",
+          "name": "Tema",
+          "value": "$Tema",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "isList": false
+        },
+        {
+          "id": "96f44b78-2881-4221-83f0-70cfa958f619",
+          "required": false,
+          "dataType": "@Elecciones",
+          "name": "Elecciones",
+          "value": "$Elecciones",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "isList": false
+        },
+        {
+          "id": "41a880d1-1e36-40d6-9186-fcbe48036b42",
+          "required": false,
+          "dataType": "@Region",
+          "name": "Region",
+          "value": "$Region",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,9 @@
+{
+  "id": "a910f015-8302-4d1e-a822-ec23fc746d24",
+  "name": "Partido",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

@@ -1,0 +1,50 @@
+{
+  "id": "1069a457-3342-49f2-ba8c-4a2cadf9ab0a",
+  "parentId": "262f0559-3cd8-442f-bc74-aad7cac16330",
+  "rootParentId": "262f0559-3cd8-442f-bc74-aad7cac16330",
+  "name": "IntentEnunciativaGenerales - select.number",
+  "auto": true,
+  "contexts": [
+    "IntentEnunciativaGenerales-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "IntentEnunciativaGenerales.IntentEnunciativaGenerales-selectnumber",
+      "affectedContexts": [
+        {
+          "name": "IntentEnunciativaGenerales-selectnumber-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "05e9d189-bc37-4561-948f-d9be1cda37be",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
